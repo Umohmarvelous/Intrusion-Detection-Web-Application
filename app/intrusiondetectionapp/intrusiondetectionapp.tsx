@@ -204,10 +204,10 @@ function IntrusionDetectionApp() {
                             <Menu className="w-5 h-5" />
                         </Button>
                         <div className="flex items-center gap-2">
-                            <div className="w-8 h-8 bg-red-600 rounded-full flex items-center justify-center">
+                            <div className="w-8 h-8 bg-amber-600 rounded-full flex items-center justify-center">
                                 <Shield className="w-5 h-5 text-white" />
                             </div>
-                            <span className="text-xl font-bold text-red-500">KRITIS</span>
+                            <span className="text-xl font-bold text-amber-500">KEYHAT</span>
                             <span className="hidden sm:block text-sm text-gray-400 dark:text-gray-600 ml-2">MONITORING SUITE</span>
                         </div>
                         <Badge
